@@ -1,0 +1,6 @@
+aiogram==3.4.1
+aiohttp==3.9.5
+matplotlib==3.8.4
+mplfinance==0.12.10b0
+pandas==2.2.2
+python-dotenv==1.0.1
